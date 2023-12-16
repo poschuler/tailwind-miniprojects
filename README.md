@@ -2,7 +2,7 @@
 
 Just a tailwind mini projects, simple web design.
 
-## URL
+## Images
 
 email-subscribe
 
